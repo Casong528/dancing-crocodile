@@ -4,7 +4,7 @@ import styles from "./Title.module.css";
 function Title() {
     return (
         <div>
-            <h1 className={styles.heading}> Hello </h1>
+            <h1 className={styles.heading}> Dancing Aligator </h1>
         </div>
     );
 }
