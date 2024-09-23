@@ -1,0 +1,17 @@
+.btn {
+    cursor: pointer;
+    background-color: beige;
+    padding: 20px 55px;
+    text-align: center;
+    border-radius: 25px;
+    border: none;
+    opacity: 0.8;
+
+    font-family: 'Poetsen One';
+    font-size: 150%;
+    color: lightcoral;
+}
+
+.btn:hover {
+    opacity: 1;
+}

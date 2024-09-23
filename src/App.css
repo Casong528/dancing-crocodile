@@ -1,0 +1,26 @@
+.bg {
+  background-image: url('./assets/backgroundImg.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  /* width: 100vw; */
+  height: 500vh;
+}
+
+.layout {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: space-around;
+}
+
+.pfp {
+  margin-bottom: 4rem;
+}

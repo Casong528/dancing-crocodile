@@ -1,0 +1,10 @@
+/* .layout {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+.font {
+    color: lightseagreen;
+    font-family: "Caveat", "sans-serif";
+}

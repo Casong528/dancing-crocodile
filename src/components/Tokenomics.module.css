@@ -1,0 +1,46 @@
+.layout {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+}
+
+.heading {
+    color: #fff;
+    font-family: "Caveat", "sans-serif";
+    font-size: 500%;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.img {
+    width: 80%;
+    height: 85%;
+}
+
+.subtitle {
+    color: #fff;
+    font-family: "Caveat", "sans-serif";
+    font-size: 250%;
+}
+
+.numbers {
+    color: #fff;
+    font-family: "Caveat", "sans-serif";
+    font-size: 150%;
+}
