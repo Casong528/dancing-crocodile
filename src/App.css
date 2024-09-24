@@ -1,5 +1,6 @@
 .bg {
-  background-image: url('./assets/backgroundImg.png');
+  background-color: bisque;
+  /* background-image: url('./assets/backgroundImg.png'); */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
