@@ -12,7 +12,7 @@ function Navbar() {
                 </a>
             </div>
             <div className={styles.containerRight}>
-                <a href="https://telegram.org/"> 
+                <a href="https://t.me/+9sDXxZen_NxmOTZh"> 
                     <img src={telegram} alt='tele' className={styles.tele}/>
                 </a>
             </div>

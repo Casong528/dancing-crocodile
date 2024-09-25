@@ -22,6 +22,12 @@
   align-items: space-around;
 }
 
+.gif-container {
+  display: flex;
+  flex-direction: row;
+  justify-content:space-evenly;
+}
+
 .pfp {
   margin-bottom: 4rem;
 }

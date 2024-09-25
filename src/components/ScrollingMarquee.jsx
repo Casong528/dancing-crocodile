@@ -19,6 +19,11 @@ function ScrollingMarquee() {
                     <img src={gator} alt="gator" className={styles.gifItem} />
                     <img src={gator} alt="gator" className={styles.gifItem} />
                     <img src={gator} alt="gator" className={styles.gifItem} />
+                    <img src={gator} alt="gator" className={styles.gifItem} />
+                    <img src={gator} alt="gator" className={styles.gifItem} />
+                    <img src={gator} alt="gator" className={styles.gifItem} />
+                    <img src={gator} alt="gator" className={styles.gifItem} />
+                    <img src={gator} alt="gator" className={styles.gifItem} />
                 </div>
             </Marquee>
         </div>

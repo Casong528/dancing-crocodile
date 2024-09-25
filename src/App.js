@@ -15,8 +15,12 @@ function App() {
         <Marquee />
         <Navebar className='navbar' />
         <Title  />
-        <TikTok url="https://www.tiktok.com/@yuvng.dylan/video/7391143453159214379" />
-        <Description />
+        <div className='gif-container'>
+          <TikTok url="https://www.tiktok.com/@yuvng.dylan/video/7391143453159214379" />
+          <TikTok url="https://www.tiktok.com/@chiefgreenscreens/video/7394985075521146155"  />
+          <TikTok url="https://www.tiktok.com/@youlove.mitch/video/7391315321874943262" />
+        </div>
+        {/* <Description /> */}
         <Tokenomics />
       </div>
     </div>
