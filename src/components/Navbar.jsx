@@ -7,7 +7,7 @@ function Navbar() {
     return (
         <div className={styles.navbar}>
             <div className={styles.containerLeft}>
-                <a href="https://x.com/home"> 
+                <a href="https://x.com/DancingAlliSol"> 
                     <img src={twitter} alt='x' className={styles.x}/>
                 </a>
             </div>
