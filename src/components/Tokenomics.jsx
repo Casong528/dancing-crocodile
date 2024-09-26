@@ -27,7 +27,7 @@ function Tokenomics() {
             </div>
 
             <div className={styles.box}>
-                <h1 className={styles.subtitle}> CA: </h1>
+                <h1 className={styles.subtitle}> CA: 8WiH18LDQaEywC6rY9Dhg71g6qWz9h4vBDDyR87Hpump</h1>
                 <Button />
             </div>
         </div>
