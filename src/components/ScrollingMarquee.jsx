@@ -2,7 +2,6 @@ import React from 'react';
 import Marquee from "react-fast-marquee";
 import styles from './ScrollingMarquee.module.css';
 import gator from '../assets/dancing-croc-small.gif';
-import michi from '../assets/michi.png';
 
 function ScrollingMarquee() {
     return (
