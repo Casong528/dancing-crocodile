@@ -1,10 +1,8 @@
 import './App.css';
 import { TikTok } from "react-tiktok";
 import Marquee from './components/ScrollingMarquee.jsx';
-import michi from './assets/michi.png';
 import Title from './components/Title.jsx';
-// import Iframe from './components/Iframe.jsx';
-import Description from './components/Description.jsx';
+// import Description from './components/Description.jsx';
 import Navebar from './components/Navbar.jsx';
 import Tokenomics from './components/Tokenomics.jsx';
 
