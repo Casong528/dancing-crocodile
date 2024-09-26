@@ -1,5 +1,4 @@
 import styles from './Tokenomics.module.css'
-import michi from '../assets/michi.png';
 import croc from '../assets/dancing-croc-big.gif';
 import Button from './Button.jsx'
 
